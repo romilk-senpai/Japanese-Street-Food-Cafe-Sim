@@ -1,0 +1,76 @@
+{
+    "name": "InputMap",
+    "maps": [
+        {
+            "name": "PC/VR",
+            "id": "324799a8-0765-4862-9060-016acc37fe3e",
+            "actions": [
+                {
+                    "name": "SpatulaGrabRight",
+                    "type": "Value",
+                    "id": "03887e2c-13f4-4764-a74c-e964f2fdb6f4",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "SpatulaGrabLeft",
+                    "type": "Value",
+                    "id": "2f4bb5f7-9328-4b1c-b3bf-2c66a69e56a8",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "649206b3-df2a-40c6-9d9b-31493b1a0e27",
+                    "path": "<XRController>{RightHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpatulaGrabRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b1d21957-2afd-4ab1-bb65-24e53d66f7aa",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpatulaGrabRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f7d0aff5-e8e4-4041-a41c-29069a6afb01",
+                    "path": "<XRController>{LeftHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpatulaGrabLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b0104fd5-c46a-417d-ac73-ba145f802e60",
+                    "path": "<Keyboard>/v",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpatulaGrabLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1190050188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 137a122a88c74bbe1ae1d1b5fbfc2140
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e439d03ffc8d24556aa0040c76a0dd1e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 482af93b30da7a048816a8ecabda762d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dbcb8f64d6a7a640a973b2df934eb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: MMD4Mecanim
+  ClassName: MMD4MecanimInternal.Bullet.MMDModelProperty
+- AssemblyName: MMD4Mecanim
+  ClassName: MMD4MecanimInternal.Bullet.WorldProperty
+- AssemblyName: MMD4Mecanim
+  ClassName: MMD4MecanimModelImpl/BulletPhysics
+- AssemblyName: MMD4Mecanim
+  ClassName: MMD4MecanimModelImpl/RigidBody
+Assets:
+- "Assets/\u82CF\u838E\u5A1C-\u821E\u5A181.0.prefab"
+Dependencies: []
